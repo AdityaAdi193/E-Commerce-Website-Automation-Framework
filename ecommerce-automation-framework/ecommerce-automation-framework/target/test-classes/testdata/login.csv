@@ -1,0 +1,4 @@
+email,password,expected
+VALID,VALID,SUCCESS
+wrong.user@example.com,BadPass@123,Login was unsuccessful
+,,Login was unsuccessful

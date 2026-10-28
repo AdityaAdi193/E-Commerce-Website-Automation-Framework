@@ -1,0 +1,12 @@
+com\ecom\pages\CheckoutPage.class
+com\ecom\pages\LoginPage.class
+com\ecom\framework\ConfigReader.class
+com\ecom\framework\CsvUtils.class
+com\ecom\framework\DriverFactory.class
+com\ecom\pages\SearchResultsPage.class
+com\ecom\pages\CartPage.class
+com\ecom\pages\ProductPage.class
+com\ecom\pages\HomePage.class
+com\ecom\pages\BasePage.class
+com\ecom\framework\ScreenshotUtils.class
+com\ecom\framework\WaitUtils.class
